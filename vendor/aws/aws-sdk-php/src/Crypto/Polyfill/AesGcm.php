@@ -15,7 +15,7 @@ use RangeException;
  *
  * Supports AES key sizes of 128-bit, 192-bit, and 256-bit.
  *
- * @package Aws\Crypto\Polyfill
+ * Aws\Crypto\Polyfill
  */
 class AesGcm
 {

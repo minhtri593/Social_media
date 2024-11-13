@@ -1,8 +1,8 @@
 /**
  * chat js
  * 
- * @package Sngine
- * @author Zamblek
+ * Sngine
+ * 
  */
 
 // initialize API URLs

@@ -2,7 +2,7 @@
 
 /**
  * Malagasy PHPMailer language file: refer to English translation for definitive list
- * @package PHPMailer
+ * PHPMailer
  * @author Hackinet <piyushjha8164@gmail.com>
  */
 

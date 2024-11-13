@@ -2,7 +2,7 @@
 /**
  * Smarty Autoloader
  *
- * @package Smarty
+ * Smarty
  */
 
 
@@ -13,7 +13,7 @@ if (!defined('SMARTY_HELPER_FUNCTIONS_LOADED')) {
 /**
  * Smarty Autoloader
  *
- * @package Smarty
+ * Smarty
  * @author  Uwe Tews
  *             Usage:
  *                  require_once '...path/Autoloader.php';

@@ -1,8 +1,8 @@
 /**
  * live js
  * 
- * @package Sngine
- * @author Zamblek
+ * Sngine
+ * 
  */
 
 // initialize live global vars

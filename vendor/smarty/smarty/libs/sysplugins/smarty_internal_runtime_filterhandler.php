@@ -3,7 +3,7 @@
  * Smarty Internal Plugin Filter Handler
  * Smarty filter handler class
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage PluginsInternal
  * @author     Uwe Tews
  */
@@ -11,7 +11,7 @@
 /**
  * Class for filter processing
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage PluginsInternal
  */
 class Smarty_Internal_Runtime_FilterHandler

@@ -3,7 +3,7 @@
  * Smarty Internal Plugin Compile Insert
  * Compiles the {insert} tag
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage Compiler
  * @author     Uwe Tews
  */
@@ -11,7 +11,7 @@
 /**
  * Smarty Internal Plugin Compile Insert Class
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage Compiler
  */
 class Smarty_Internal_Compile_Insert extends Smarty_Internal_CompileBase

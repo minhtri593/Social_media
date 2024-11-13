@@ -3,8 +3,8 @@
 /**
  * ajax -> core -> two factor authentication
  * 
- * @package Sngine
- * @author Zamblek
+ * Sngine
+ * 
  */
 
 // fetch bootstrap

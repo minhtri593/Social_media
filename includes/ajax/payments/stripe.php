@@ -3,8 +3,8 @@
 /**
  * ajax -> payments -> stripe
  * 
- * @package Sngine
- * @author Zamblek
+ * Sngine
+ * 
  */
 
 // fetch bootstrap

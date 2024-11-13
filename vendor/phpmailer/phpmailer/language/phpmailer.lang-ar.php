@@ -2,7 +2,7 @@
 
 /**
  * Arabic PHPMailer language file: refer to English translation for definitive list
- * @package PHPMailer
+ * PHPMailer
  * @author bahjat al mostafa <bahjat983@hotmail.com>
  */
 

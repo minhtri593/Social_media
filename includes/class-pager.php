@@ -3,8 +3,8 @@
 /**
  * class -> pager
  * 
- * @package Sngine
- * @author Zamblek
+ * Sngine
+ * 
  */
 
 class Pager

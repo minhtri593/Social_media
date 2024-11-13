@@ -3,8 +3,8 @@
 /**
  * ajax -> users -> push notifications
  * 
- * @package Sngine
- * @author Zamblek
+ * Sngine
+ * 
  */
 
 // fetch bootstrap

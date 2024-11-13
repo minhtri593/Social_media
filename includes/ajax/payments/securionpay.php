@@ -3,8 +3,8 @@
 /**
  * ajax -> payments -> securionpay
  * 
- * @package Sngine
- * @author Zamblek
+ * Sngine
+ * 
  */
 
 // fetch bootstrap

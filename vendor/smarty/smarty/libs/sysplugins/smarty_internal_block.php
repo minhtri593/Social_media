@@ -3,7 +3,7 @@
 /**
  * Smarty {block} tag class
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage PluginsInternal
  * @author     Uwe Tews
  */

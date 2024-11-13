@@ -3,8 +3,8 @@
 /**
  * webhooks -> paypal subscriptions webhook
  * 
- * @package Sngine
- * @author Zamblek
+ * Sngine
+ * 
  */
 
 // fetch bootloader

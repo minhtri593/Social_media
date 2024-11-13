@@ -2,7 +2,7 @@
 
 /**
  * Esperanto PHPMailer language file: refer to English translation for definitive list
- * @package PHPMailer
+ * PHPMailer
  */
 
 $PHPMAILER_LANG['authenticate']         = 'Eraro de servilo SMTP : aŭtentigo malsukcesis.';

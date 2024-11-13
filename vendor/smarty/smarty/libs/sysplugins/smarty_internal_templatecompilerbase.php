@@ -3,7 +3,7 @@
  * Smarty Internal Plugin Smarty Template Compiler Base
  * This file contains the basic classes and methods for compiling Smarty templates with lexer/parser
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage Compiler
  * @author     Uwe Tews
  */
@@ -11,7 +11,7 @@
 /**
  * Main abstract compiler class
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage Compiler
  *
  * @property Smarty_Internal_SmartyTemplateCompiler $prefixCompiledCode  = ''

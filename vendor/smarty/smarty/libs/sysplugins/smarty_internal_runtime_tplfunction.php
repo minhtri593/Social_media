@@ -3,7 +3,7 @@
 /**
  * TplFunction Runtime Methods callTemplateFunction
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage PluginsInternal
  * @author     Uwe Tews
  **/

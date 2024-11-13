@@ -3,7 +3,7 @@
 /**
  * Inheritance Runtime Methods processBlock, endChild, init
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage PluginsInternal
  * @author     Uwe Tews
  **/

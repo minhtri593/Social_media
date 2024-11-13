@@ -3,7 +3,7 @@
 /**
  * Runtime Extension Capture
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage PluginsInternal
  * @author     Uwe Tews
  */

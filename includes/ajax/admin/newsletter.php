@@ -3,8 +3,8 @@
 /**
  * ajax -> admin -> newsletter
  * 
- * @package Sngine
- * @author Zamblek
+ * Sngine
+ * 
  */
 
 // set execution time

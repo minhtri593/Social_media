@@ -3,8 +3,8 @@
 /**
  * ajax -> core -> forget password reset
  * 
- * @package Sngine
- * @author Zamblek
+ * Sngine
+ * 
  */
 
 // fetch bootstrap

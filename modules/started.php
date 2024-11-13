@@ -3,8 +3,8 @@
 /**
  * modules -> started
  * 
- * @package Sngine
- * @author Zamblek
+ * Sngine
+ * 
  */
 
 // fetch bootloader

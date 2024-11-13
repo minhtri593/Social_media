@@ -3,7 +3,7 @@
  * Smarty Internal Plugin Compile Modifier
  * Compiles code for modifier execution
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage Compiler
  * @author     Uwe Tews
  */
@@ -11,7 +11,7 @@
 /**
  * Smarty Internal Plugin Compile Modifier Class
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage Compiler
  */
 class Smarty_Internal_Compile_Private_Modifier extends Smarty_Internal_CompileBase

@@ -3,7 +3,7 @@
  * Smarty Internal Plugin Compile Capture
  * Compiles the {capture} tag
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage Compiler
  * @author     Uwe Tews
  */
@@ -11,7 +11,7 @@
 /**
  * Smarty Internal Plugin Compile Capture Class
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage Compiler
  */
 class Smarty_Internal_Compile_Capture extends Smarty_Internal_CompileBase
@@ -77,7 +77,7 @@ class Smarty_Internal_Compile_Capture extends Smarty_Internal_CompileBase
 /**
  * Smarty Internal Plugin Compile Captureclose Class
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage Compiler
  */
 class Smarty_Internal_Compile_CaptureClose extends Smarty_Internal_CompileBase

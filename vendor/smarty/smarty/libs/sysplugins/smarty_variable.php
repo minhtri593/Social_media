@@ -4,7 +4,7 @@
  * class for the Smarty variable object
  * This class defines the Smarty variable object
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage Template
  */
 #[\AllowDynamicProperties]

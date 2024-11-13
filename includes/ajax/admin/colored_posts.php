@@ -3,8 +3,8 @@
 /**
  * ajax -> admin -> colored posts
  * 
- * @package Sngine
- * @author Zamblek
+ * Sngine
+ * 
  */
 
 // fetch bootstrap

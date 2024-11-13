@@ -2,7 +2,7 @@
 
 /**
  * Assamese PHPMailer language file: refer to English translation for definitive list
- * @package PHPMailer
+ * PHPMailer
  * @author Manish Sarkar <manish.n.manish@gmail.com>
  */
 

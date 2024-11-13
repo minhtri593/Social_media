@@ -2,7 +2,7 @@
 
 /**
  * Dutch PHPMailer language file: refer to PHPMailer.php for definitive list.
- * @package PHPMailer
+ * PHPMailer
  * @author Tuxion <team@tuxion.nl>
  */
 

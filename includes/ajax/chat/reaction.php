@@ -3,8 +3,8 @@
 /**
  * ajax -> chat -> reaction
  * 
- * @package Sngine
- * @author Zamblek
+ * Sngine
+ * 
  */
 
 // fetch bootstrap

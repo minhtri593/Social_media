@@ -5,7 +5,7 @@
  *
  * Smarty::setDebugTemplate() method
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage PluginsInternal
  * @author     Uwe Tews
  */

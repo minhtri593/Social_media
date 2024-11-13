@@ -3,8 +3,8 @@
 /**
  * ajax -> users -> mutual friends
  * 
- * @package Sngine
- * @author Zamblek
+ * Sngine
+ * 
  */
 
 // fetch bootstrap

@@ -5,7 +5,7 @@
  *
  * Smarty::unregisterCacheResource() method
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage PluginsInternal
  * @author     Uwe Tews
  */

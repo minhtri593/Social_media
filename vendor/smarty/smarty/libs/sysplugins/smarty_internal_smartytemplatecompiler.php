@@ -3,7 +3,7 @@
  * Smarty Internal Plugin Smarty Template Compiler Base
  * This file contains the basic classes and methods for compiling Smarty templates with lexer/parser
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage Compiler
  * @author     Uwe Tews
  */
@@ -11,7 +11,7 @@
 /**
  * Class SmartyTemplateCompiler
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage Compiler
  */
 class Smarty_Internal_SmartyTemplateCompiler extends Smarty_Internal_TemplateCompilerBase

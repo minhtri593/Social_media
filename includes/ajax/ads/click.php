@@ -3,8 +3,8 @@
 /**
  * ajax -> ads -> click
  * 
- * @package Sngine
- * @author Zamblek
+ * Sngine
+ * 
  */
 
 // fetch bootstrap

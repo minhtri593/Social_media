@@ -3,7 +3,7 @@
  * Smarty Internal Plugin Resource Stream
  * Implements the streams as resource for Smarty template
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage TemplateResources
  * @author     Uwe Tews
  * @author     Rodney Rehm
@@ -14,7 +14,7 @@
  * Implements the streams as resource for Smarty template
  *
  * @link       https://php.net/streams
- * @package    Smarty
+ *    Smarty
  * @subpackage TemplateResources
  */
 class Smarty_Internal_Resource_Stream extends Smarty_Resource_Recompiled

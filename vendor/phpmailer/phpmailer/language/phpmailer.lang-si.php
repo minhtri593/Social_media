@@ -2,7 +2,7 @@
 
 /**
  * Sinhalese PHPMailer language file: refer to English translation for definitive list
- * @package PHPMailer
+ * PHPMailer
  * @author Ayesh Karunaratne <ayesh@aye.sh>
  */
 

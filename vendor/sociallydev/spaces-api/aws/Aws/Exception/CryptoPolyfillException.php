@@ -3,7 +3,7 @@ namespace Aws\Exception;
 
 /**
  * Class CryptoPolyfillException
- * @package Aws\Exception
+ * Aws\Exception
  */
 class CryptoPolyfillException extends \RuntimeException
 {

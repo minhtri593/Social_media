@@ -3,8 +3,8 @@
 /**
  * functions
  *
- * @package Sngine
- * @author Zamblek
+ * Sngine
+ * 
  */
 
 

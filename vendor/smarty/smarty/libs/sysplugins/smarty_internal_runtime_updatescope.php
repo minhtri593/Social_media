@@ -3,7 +3,7 @@
 /**
  * Runtime Extension updateScope
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage PluginsInternal
  * @author     Uwe Tews
  **/

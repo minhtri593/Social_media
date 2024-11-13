@@ -13,7 +13,7 @@ use UnexpectedValueException;
  * PHP version 5
  *
  * @category Authentication
- * @package  Authentication_JWT
+ *  Authentication_JWT
  * @author   Bui Sy Nguyen <nguyenbs@gmail.com>
  * @license  http://opensource.org/licenses/BSD-3-Clause 3-clause BSD
  * @link     https://github.com/firebase/php-jwt

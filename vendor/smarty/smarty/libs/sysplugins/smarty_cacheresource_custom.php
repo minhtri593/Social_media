@@ -2,14 +2,14 @@
 /**
  * Smarty Internal Plugin
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage Cacher
  */
 
 /**
  * Cache Handler API
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage Cacher
  * @author     Rodney Rehm
  */

@@ -2,7 +2,7 @@
 /**
  * Smarty Resource Plugin
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage TemplateResources
  * @author     Rodney Rehm
  */
@@ -11,7 +11,7 @@
  * Smarty Resource Plugin
  * Base implementation for resource plugins
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage TemplateResources
  *
  * @method renderUncompiled(Smarty_Template_Source $source, Smarty_Internal_Template $_template)

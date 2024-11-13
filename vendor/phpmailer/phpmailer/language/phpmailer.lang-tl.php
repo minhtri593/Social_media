@@ -3,7 +3,7 @@
 /**
  * Tagalog PHPMailer language file: refer to English translation for definitive list
  *
- *   @package PHPMailer
+ *   PHPMailer
  *   @author Adriane Justine Tan <eidoriantan@gmail.com>
  */
 

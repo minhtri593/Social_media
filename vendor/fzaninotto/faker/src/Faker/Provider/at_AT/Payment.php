@@ -5,7 +5,7 @@ namespace Faker\Provider\at_AT;
 /**
  * Class Payment
  *
- * @package Faker\Provider\at_AT
+ * Faker\Provider\at_AT
  */
 class Payment extends \Faker\Provider\Payment
 {

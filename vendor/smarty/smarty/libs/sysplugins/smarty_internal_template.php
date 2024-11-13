@@ -3,7 +3,7 @@
  * Smarty Internal Plugin Template
  * This file contains the Smarty template engine
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage Template
  * @author     Uwe Tews
  */
@@ -11,7 +11,7 @@
 /**
  * Main class with template data structures and methods
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage Template
  *
  * @property Smarty_Template_Compiled             $compiled

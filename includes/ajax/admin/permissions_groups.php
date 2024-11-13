@@ -3,8 +3,8 @@
 /**
  * ajax -> admin -> permissions groups
  * 
- * @package Sngine
- * @author Zamblek
+ * Sngine
+ * 
  */
 
 // fetch bootstrap

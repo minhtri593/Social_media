@@ -5,7 +5,7 @@
  *
  * Smarty::getStreamVariable() method
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage PluginsInternal
  * @author     Uwe Tews
  */

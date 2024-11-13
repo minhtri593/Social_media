@@ -3,8 +3,8 @@
 /**
  * config
  * 
- * @package Sngine
- * @author Zamblek
+ * Sngine
+ * 
  */
 
 // ** MySQL settings ** //

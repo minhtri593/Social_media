@@ -3,8 +3,8 @@
 /**
  * ajax -> data -> live
  * 
- * @package Sngine
- * @author Zamblek
+ * Sngine
+ * 
  */
 
 // fetch bootstrap

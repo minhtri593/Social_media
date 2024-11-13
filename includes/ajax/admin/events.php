@@ -3,8 +3,8 @@
 /**
  * ajax -> admin -> events
  * 
- * @package Sngine
- * @author Zamblek
+ * Sngine
+ * 
  */
 
 // fetch bootstrap

@@ -3,7 +3,7 @@
 /**
  * {make_nocache} Runtime Methods save(), store()
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage PluginsInternal
  * @author     Uwe Tews
  */

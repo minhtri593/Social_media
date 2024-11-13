@@ -3,8 +3,8 @@
 /**
  * ajax -> users -> gifts
  * 
- * @package Sngine
- * @author Zamblek
+ * Sngine
+ * 
  */
 
 // fetch bootstrap

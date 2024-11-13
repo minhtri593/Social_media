@@ -4,7 +4,7 @@
  * This is the config file compiler class. It calls the lexer and parser to
  * perform the compiling.
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage Config
  * @author     Uwe Tews
  */
@@ -12,7 +12,7 @@
 /**
  * Main config file compiler class
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage Config
  */
 class Smarty_Internal_Config_File_Compiler

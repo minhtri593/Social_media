@@ -5,7 +5,7 @@
  *
  * Load extensions dynamically
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage PluginsInternal
  * @author     Uwe Tews
  *

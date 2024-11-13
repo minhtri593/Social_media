@@ -3,8 +3,8 @@
 /**
  * webhooks -> moneypoolscash
  * 
- * @package Sngine
- * @author Zamblek
+ * Sngine
+ * 
  */
 
 // fetch bootloader

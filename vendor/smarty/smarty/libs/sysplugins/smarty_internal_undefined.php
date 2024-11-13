@@ -5,7 +5,7 @@
  *
  * Class to handle undefined method calls or calls to obsolete runtime extensions
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage PluginsInternal
  * @author     Uwe Tews
  */

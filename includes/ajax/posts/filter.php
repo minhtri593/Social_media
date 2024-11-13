@@ -3,8 +3,8 @@
 /**
  * ajax -> posts -> filter (posts|comments)
  * 
- * @package Sngine
- * @author Zamblek
+ * Sngine
+ * 
  */
 
 // fetch bootstrap

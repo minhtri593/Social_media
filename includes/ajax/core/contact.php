@@ -3,8 +3,8 @@
 /**
  * ajax -> core -> contact
  * 
- * @package Sngine
- * @author Zamblek
+ * Sngine
+ * 
  */
 
 // fetch bootstrap

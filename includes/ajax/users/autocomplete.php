@@ -3,8 +3,8 @@
 /**
  * ajax -> data -> autocomplete
  * 
- * @package Sngine
- * @author Zamblek
+ * Sngine
+ * 
  */
 
 // fetch bootstrap

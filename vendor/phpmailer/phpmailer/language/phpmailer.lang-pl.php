@@ -2,7 +2,7 @@
 
 /**
  * Polish PHPMailer language file: refer to English translation for definitive list
- * @package PHPMailer
+ * PHPMailer
  */
 
 $PHPMAILER_LANG['authenticate']         = 'Błąd SMTP: Nie można przeprowadzić uwierzytelnienia.';

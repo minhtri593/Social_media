@@ -10,7 +10,7 @@
  * Smarty Resource Data Object
  * Cache Data Container for Template Files
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage TemplateResources
  * @author     Rodney Rehm
  */

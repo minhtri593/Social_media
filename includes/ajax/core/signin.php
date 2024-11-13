@@ -3,8 +3,8 @@
 /**
  * ajax -> core -> signin
  * 
- * @package Sngine
- * @author Zamblek
+ * Sngine
+ * 
  */
 
 // set override_shutdown

@@ -2,7 +2,7 @@
 
 /**
  * Korean PHPMailer language file: refer to English translation for definitive list
- * @package PHPMailer
+ * PHPMailer
  * @author ChalkPE <amato0617@gmail.com>
  */
 

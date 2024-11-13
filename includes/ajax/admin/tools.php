@@ -3,8 +3,8 @@
 /**
  * ajax -> admin -> tools
  * 
- * @package Sngine
- * @author Zamblek
+ * Sngine
+ * 
  */
 
 // set execution time

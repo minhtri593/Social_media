@@ -3,8 +3,8 @@
 /**
  * ajax -> core -> activation phone resend
  * 
- * @package Sngine
- * @author Zamblek
+ * Sngine
+ * 
  */
 
 // fetch bootstrap

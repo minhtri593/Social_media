@@ -2,7 +2,7 @@
 
 /**
  * Galician PHPMailer language file: refer to English translation for definitive list
- * @package PHPMailer
+ * PHPMailer
  * @author by Donato Rouco <donatorouco@gmail.com>
  */
 

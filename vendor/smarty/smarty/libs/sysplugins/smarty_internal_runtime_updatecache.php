@@ -3,7 +3,7 @@
 /**
  * Inline Runtime Methods render, setSourceByUid, setupSubTemplate
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage PluginsInternal
  * @author     Uwe Tews
  **/

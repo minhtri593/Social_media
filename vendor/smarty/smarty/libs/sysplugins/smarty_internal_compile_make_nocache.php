@@ -3,7 +3,7 @@
  * Smarty Internal Plugin Compile Make_Nocache
  * Compiles the {make_nocache} tag
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage Compiler
  * @author     Uwe Tews
  */
@@ -11,7 +11,7 @@
 /**
  * Smarty Internal Plugin Compile Make_Nocache Class
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage Compiler
  */
 class Smarty_Internal_Compile_Make_Nocache extends Smarty_Internal_CompileBase

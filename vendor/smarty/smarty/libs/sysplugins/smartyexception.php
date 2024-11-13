@@ -3,7 +3,7 @@
 /**
  * Smarty exception class
  *
- * @package Smarty
+ * Smarty
  */
 class SmartyException extends Exception
 {

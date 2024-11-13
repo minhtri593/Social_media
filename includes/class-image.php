@@ -3,8 +3,8 @@
 /**
  * class -> image
  * 
- * @package Sngine
- * @author Zamblek
+ * Sngine
+ * 
  */
 
 class Image

@@ -3,8 +3,8 @@
 /**
  * class -> user
  * 
- * @package Sngine
- * @author Zamblek
+ * Sngine
+ * 
  */
 
 class User

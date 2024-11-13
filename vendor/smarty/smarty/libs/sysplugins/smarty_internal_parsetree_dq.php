@@ -2,7 +2,7 @@
 /**
  * Double quoted string inside a tag.
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage Compiler
  * @ignore
  */
@@ -10,7 +10,7 @@
 /**
  * Double quoted string inside a tag.
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage Compiler
  * @ignore
  */

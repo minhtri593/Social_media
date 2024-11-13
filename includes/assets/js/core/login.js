@@ -1,8 +1,8 @@
 /**
  * login js
  * 
- * @package Sngine
- * @author Zamblek
+ * Sngine
+ * 
  */
 
 $(function () {

@@ -3,8 +3,8 @@
 /**
  * moderator
  * 
- * @package Sngine
- * @author Zamblek
+ * Sngine
+ * 
  */
 
 // initialize

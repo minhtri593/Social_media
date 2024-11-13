@@ -5,7 +5,7 @@
  *
  * Smarty::getAutoloadFilters() method
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage PluginsInternal
  * @author     Uwe Tews
  */

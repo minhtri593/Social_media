@@ -3,8 +3,8 @@
 /**
  * ajax -> admin -> blacklist
  * 
- * @package Sngine
- * @author Zamblek
+ * Sngine
+ * 
  */
 
 // fetch bootstrap

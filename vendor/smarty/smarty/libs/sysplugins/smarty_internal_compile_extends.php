@@ -3,7 +3,7 @@
  * Smarty Internal Plugin Compile extend
  * Compiles the {extends} tag
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage Compiler
  * @author     Uwe Tews
  */
@@ -11,7 +11,7 @@
 /**
  * Smarty Internal Plugin Compile extend Class
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage Compiler
  */
 class Smarty_Internal_Compile_Extends extends Smarty_Internal_Compile_Shared_Inheritance

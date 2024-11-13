@@ -3,7 +3,7 @@
  * Smarty Internal Plugin Compile Continue
  * Compiles the {continue} tag
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage Compiler
  * @author     Uwe Tews
  */
@@ -11,7 +11,7 @@
 /**
  * Smarty Internal Plugin Compile Continue Class
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage Compiler
  */
 class Smarty_Internal_Compile_Continue extends Smarty_Internal_Compile_Break

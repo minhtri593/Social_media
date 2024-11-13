@@ -3,8 +3,8 @@
 /**
  * ajax -> admin -> genders
  * 
- * @package Sngine
- * @author Zamblek
+ * Sngine
+ * 
  */
 
 // fetch bootstrap

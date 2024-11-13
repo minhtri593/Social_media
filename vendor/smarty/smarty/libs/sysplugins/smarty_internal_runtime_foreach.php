@@ -3,7 +3,7 @@
 /**
  * Foreach Runtime Methods count(), init(), restore()
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage PluginsInternal
  * @author     Uwe Tews
  */

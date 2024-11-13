@@ -6,7 +6,7 @@ namespace Aws\Crypto\Polyfill;
  *
  * Wraps a string to keep it hidden from stack traces.
  *
- * @package Aws\Crypto\Polyfill
+ * Aws\Crypto\Polyfill
  */
 class Key
 {

@@ -3,8 +3,8 @@
 /**
  * ajax -> modules -> delete
  * 
- * @package Sngine
- * @author Zamblek
+ * Sngine
+ * 
  */
 
 // fetch bootstrap

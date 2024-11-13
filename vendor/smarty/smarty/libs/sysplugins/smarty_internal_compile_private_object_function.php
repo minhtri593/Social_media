@@ -3,7 +3,7 @@
  * Smarty Internal Plugin Compile Object Function
  * Compiles code for registered objects as function
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage Compiler
  * @author     Uwe Tews
  */
@@ -11,7 +11,7 @@
 /**
  * Smarty Internal Plugin Compile Object Function Class
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage Compiler
  */
 class Smarty_Internal_Compile_Private_Object_Function extends Smarty_Internal_CompileBase

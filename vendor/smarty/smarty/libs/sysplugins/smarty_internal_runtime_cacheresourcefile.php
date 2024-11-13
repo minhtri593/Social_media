@@ -2,7 +2,7 @@
 /**
  * Smarty cache resource file clear method
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage PluginsInternal
  * @author     Uwe Tews
  */
@@ -10,7 +10,7 @@
 /**
  * Smarty Internal Runtime Cache Resource File Class
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage PluginsInternal
  */
 class Smarty_Internal_Runtime_CacheResourceFile

@@ -5,7 +5,7 @@
  *
  * Smarty::addDefaultModifiers() method
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage PluginsInternal
  * @author     Uwe Tews
  */

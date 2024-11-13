@@ -5,7 +5,7 @@
  *
  * Smarty::clearCompiledTemplate() method
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage PluginsInternal
  * @author     Uwe Tews
  */

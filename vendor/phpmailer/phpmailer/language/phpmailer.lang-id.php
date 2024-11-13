@@ -2,7 +2,7 @@
 
 /**
  * Indonesian PHPMailer language file: refer to English translation for definitive list
- * @package PHPMailer
+ * PHPMailer
  * @author Cecep Prawiro <cecep.prawiro@gmail.com>
  * @author @januridp
  * @author Ian Mustafa <mail@ianmustafa.com>

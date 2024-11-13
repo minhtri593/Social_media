@@ -3,8 +3,8 @@
 /**
  * ajax -> albums -> action
  * 
- * @package Sngine
- * @author Zamblek
+ * Sngine
+ * 
  */
 
 // fetch bootstrap

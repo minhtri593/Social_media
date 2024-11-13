@@ -3,7 +3,7 @@
  * Smarty Internal Plugin Compile Include
  * Compiles the {include} tag
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage Compiler
  * @author     Uwe Tews
  */
@@ -11,7 +11,7 @@
 /**
  * Smarty Internal Plugin Compile Include Class
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage Compiler
  */
 class Smarty_Internal_Compile_Include extends Smarty_Internal_CompileBase

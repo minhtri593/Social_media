@@ -2,7 +2,7 @@
 
 /**
  * Faroese PHPMailer language file: refer to English translation for definitive list
- * @package PHPMailer
+ * PHPMailer
  * @author Dávur Sørensen <http://www.profo-webdesign.dk>
  */
 

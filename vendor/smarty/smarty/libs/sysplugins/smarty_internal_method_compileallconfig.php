@@ -5,7 +5,7 @@
  *
  * Smarty::compileAllConfig() method
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage PluginsInternal
  * @author     Uwe Tews
  */

@@ -5,7 +5,7 @@
  *
  * Smarty::assignGlobal() method
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage PluginsInternal
  * @author     Uwe Tews
  */

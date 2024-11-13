@@ -3,8 +3,8 @@
 /**
  * ajax -> live -> reaction
  * 
- * @package Sngine
- * @author Zamblek
+ * Sngine
+ * 
  */
 
 // fetch bootstrap

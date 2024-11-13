@@ -2,7 +2,7 @@
 /**
  * Smarty shared plugin
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage PluginsShared
  */
 if (!function_exists('smarty_mb_str_replace')) {

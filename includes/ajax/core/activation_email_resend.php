@@ -3,8 +3,8 @@
 /**
  * ajax -> core -> activation email resend
  * 
- * @package Sngine
- * @author Zamblek
+ * Sngine
+ * 
  */
 
 // fetch bootstrap

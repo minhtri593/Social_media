@@ -4,7 +4,7 @@
 * This is the config file parser
 * 
 * 
-* @package Smarty
+* Smarty
 * @subpackage Config
 * @author Uwe Tews
 */
@@ -15,7 +15,7 @@
 *
 * This is the config file parser.
 * It is generated from the smarty_internal_configfileparser.y file
-* @package Smarty
+* Smarty
 * @subpackage Compiler
 * @author Uwe Tews
 */

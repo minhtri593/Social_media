@@ -5,7 +5,7 @@
  *
  * Smarty_Internal_Template::mustCompile() method
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage PluginsInternal
  * @author     Uwe Tews
  */

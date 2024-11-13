@@ -3,8 +3,8 @@
 /**
  * webhooks -> coinbase
  * 
- * @package Sngine
- * @author Zamblek
+ * Sngine
+ * 
  */
 
 // fetch bootloader

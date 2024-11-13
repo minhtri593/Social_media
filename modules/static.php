@@ -3,8 +3,8 @@
 /**
  * modules -> static
  * 
- * @package Sngine
- * @author Zamblek
+ * Sngine
+ * 
  */
 
 // fetch bootloader

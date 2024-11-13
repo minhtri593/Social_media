@@ -3,7 +3,7 @@
  * Smarty Internal Plugin Compile Shared Inheritance
  * Shared methods for {extends} and {block} tags
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage Compiler
  * @author     Uwe Tews
  */
@@ -11,7 +11,7 @@
 /**
  * Smarty Internal Plugin Compile Shared Inheritance Class
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage Compiler
  */
 class Smarty_Internal_Compile_Shared_Inheritance extends Smarty_Internal_CompileBase

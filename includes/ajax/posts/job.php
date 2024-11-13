@@ -3,8 +3,8 @@
 /**
  * ajax -> posts -> job
  * 
- * @package Sngine
- * @author Zamblek
+ * Sngine
+ * 
  */
 
 // fetch bootstrap

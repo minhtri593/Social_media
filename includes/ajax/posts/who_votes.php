@@ -3,8 +3,8 @@
 /**
  * ajax -> posts -> who votes
  * 
- * @package Sngine
- * @author Zamblek
+ * Sngine
+ * 
  */
 
 // fetch bootstrap

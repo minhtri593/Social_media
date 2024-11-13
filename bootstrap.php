@@ -3,8 +3,8 @@
 /**
  * bootstrap
  * 
- * @package Sngine
- * @author Zamblek
+ * Sngine
+ * 
  */
 
 // set ABSPATH & BASEPATH

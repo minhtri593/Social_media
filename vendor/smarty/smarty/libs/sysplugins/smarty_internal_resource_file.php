@@ -2,7 +2,7 @@
 /**
  * Smarty Internal Plugin Resource File
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage TemplateResources
  * @author     Uwe Tews
  * @author     Rodney Rehm
@@ -12,7 +12,7 @@
  * Smarty Internal Plugin Resource File
  * Implements the file system as resource for Smarty templates
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage TemplateResources
  */
 class Smarty_Internal_Resource_File extends Smarty_Resource

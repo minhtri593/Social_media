@@ -5,7 +5,7 @@
  *
  * Smarty::registerDefaultPluginHandler() method
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage PluginsInternal
  * @author     Uwe Tews
  */

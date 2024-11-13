@@ -5,7 +5,7 @@
  *
  * Smarty::unregisterObject() method
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage PluginsInternal
  * @author     Uwe Tews
  */

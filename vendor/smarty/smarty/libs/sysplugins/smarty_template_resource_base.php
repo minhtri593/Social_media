@@ -3,7 +3,7 @@
 /**
  * Smarty Template Resource Base Object
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage TemplateResources
  * @author     Rodney Rehm
  */

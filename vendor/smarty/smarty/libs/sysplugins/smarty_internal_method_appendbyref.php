@@ -5,7 +5,7 @@
  *
  * Smarty::appendByRef() method
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage PluginsInternal
  * @author     Uwe Tews
  */

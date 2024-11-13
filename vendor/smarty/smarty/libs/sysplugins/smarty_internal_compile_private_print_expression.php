@@ -3,7 +3,7 @@
  * Smarty Internal Plugin Compile Print Expression
  * Compiles any tag which will output an expression or variable
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage Compiler
  * @author     Uwe Tews
  */
@@ -11,7 +11,7 @@
 /**
  * Smarty Internal Plugin Compile Print Expression Class
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage Compiler
  */
 class Smarty_Internal_Compile_Private_Print_Expression extends Smarty_Internal_CompileBase

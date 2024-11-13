@@ -3,7 +3,7 @@
  * Smarty Internal Plugin Data
  * This file contains the basic classes and methods for template and variable creation
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage Template
  * @author     Uwe Tews
  */
@@ -11,7 +11,7 @@
 /**
  * Base class with template and variable methods
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage Template
  *
  * @property int    $scope

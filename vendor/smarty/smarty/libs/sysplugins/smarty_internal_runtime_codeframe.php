@@ -3,7 +3,7 @@
  * Smarty Internal Extension
  * This file contains the Smarty template extension to create a code frame
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage Template
  * @author     Uwe Tews
  */

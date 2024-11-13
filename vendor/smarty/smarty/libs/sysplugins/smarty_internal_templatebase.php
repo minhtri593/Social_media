@@ -3,7 +3,7 @@
  * Smarty Internal Plugin Smarty Template  Base
  * This file contains the basic shared methods for template handling
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage Template
  * @author     Uwe Tews
  */
@@ -11,7 +11,7 @@
 /**
  * Class with shared smarty/template methods
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage Template
  *
  * @property int $_objType

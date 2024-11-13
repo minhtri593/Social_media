@@ -2,7 +2,7 @@
 
 /**
  * Spanish PHPMailer language file: refer to English translation for definitive list
- * @package PHPMailer
+ * PHPMailer
  * @author Matt Sturdy <matt.sturdy@gmail.com>
  * @author Crystopher Glodzienski Cardoso <crystopher.glodzienski@gmail.com>
  */

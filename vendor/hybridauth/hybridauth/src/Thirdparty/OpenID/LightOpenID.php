@@ -15,7 +15,7 @@ use Hybridauth\Exception\ExceptionInterface;
 /**
  * Class ErrorException
  *
- * @package Hybridauth\Thirdparty\OpenID
+ * Hybridauth\Thirdparty\OpenID
  */
 class ErrorException extends Exception implements ExceptionInterface
 {

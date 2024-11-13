@@ -3,7 +3,7 @@
  * Smarty Internal Plugin Compile Eval
  * Compiles the {eval} tag.
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage Compiler
  * @author     Uwe Tews
  */
@@ -11,7 +11,7 @@
 /**
  * Smarty Internal Plugin Compile Eval Class
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage Compiler
  */
 class Smarty_Internal_Compile_Eval extends Smarty_Internal_CompileBase

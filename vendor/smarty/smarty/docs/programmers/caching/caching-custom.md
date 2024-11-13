@@ -63,7 +63,7 @@ to invoke your custom CacheResource implementation.
      *   INDEX(`modified`)
      * ) ENGINE = InnoDB;</pre>
      *
-     * @package CacheResource-examples
+     * CacheResource-examples
      * @author Rodney Rehm
      */
     class Smarty_CacheResource_Mysql extends Smarty_CacheResource_Custom {
@@ -211,7 +211,7 @@ to invoke your custom CacheResource implementation.
      * Note that memcache has a limitation of 256 characters per cache-key.
      * To avoid complications all cache-keys are translated to a sha1 hash.
      *
-     * @package CacheResource-examples
+     * CacheResource-examples
      * @author Rodney Rehm
      */
     class Smarty_CacheResource_Memcache extends Smarty_CacheResource_KeyValueStore {

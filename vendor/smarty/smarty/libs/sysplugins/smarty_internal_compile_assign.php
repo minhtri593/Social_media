@@ -3,7 +3,7 @@
  * Smarty Internal Plugin Compile Assign
  * Compiles the {assign} tag
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage Compiler
  * @author     Uwe Tews
  */
@@ -11,7 +11,7 @@
 /**
  * Smarty Internal Plugin Compile Assign Class
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage Compiler
  */
 class Smarty_Internal_Compile_Assign extends Smarty_Internal_CompileBase

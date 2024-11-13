@@ -3,8 +3,8 @@
 /**
  * ajax -> admin -> custom fields
  * 
- * @package Sngine
- * @author Zamblek
+ * Sngine
+ * 
  */
 
 // fetch bootstrap

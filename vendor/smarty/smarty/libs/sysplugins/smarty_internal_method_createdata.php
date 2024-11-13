@@ -5,7 +5,7 @@
  *
  * Smarty::createData() method
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage PluginsInternal
  * @author     Uwe Tews
  */

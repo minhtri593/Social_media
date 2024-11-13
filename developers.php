@@ -3,8 +3,8 @@
 /**
  * developers
  * 
- * @package Sngine
- * @author Zamblek
+ * Sngine
+ * 
  */
 
 // fetch bootloader

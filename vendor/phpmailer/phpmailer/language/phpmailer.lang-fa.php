@@ -2,7 +2,7 @@
 
 /**
  * Persian/Farsi PHPMailer language file: refer to English translation for definitive list
- * @package PHPMailer
+ * PHPMailer
  * @author Ali Jazayeri <jaza.ali@gmail.com>
  * @author Mohammad Hossein Mojtahedi <mhm5000@gmail.com>
  */

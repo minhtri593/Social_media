@@ -26,7 +26,7 @@
  * @author    Monte Ohrt <monte at ohrt dot com>
  * @author    Uwe Tews   <uwe dot tews at gmail dot com>
  * @author    Rodney Rehm
- * @package   Smarty
+ *   Smarty
  */
 /**
  * set SMARTY_DIR to absolute path to Smarty library files.
@@ -91,7 +91,7 @@ require_once SMARTY_SYSPLUGINS_DIR . 'smarty_internal_resource_file.php';
 /**
  * This is the main Smarty class
  *
- * @package Smarty
+ * Smarty
  *
  * The following methods will be dynamically loaded by the extension handler when they are called.
  * They are located in a corresponding Smarty_Internal_Method_xxxx class

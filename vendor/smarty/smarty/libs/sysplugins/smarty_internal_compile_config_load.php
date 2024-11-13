@@ -3,7 +3,7 @@
  * Smarty Internal Plugin Compile Config Load
  * Compiles the {config load} tag
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage Compiler
  * @author     Uwe Tews
  */
@@ -11,7 +11,7 @@
 /**
  * Smarty Internal Plugin Compile Config Load Class
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage Compiler
  */
 class Smarty_Internal_Compile_Config_Load extends Smarty_Internal_CompileBase

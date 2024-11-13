@@ -3,8 +3,8 @@
 /**
  * ajax -> posts -> lightbox
  * 
- * @package Sngine
- * @author Zamblek
+ * Sngine
+ * 
  */
 
 // fetch bootstrap

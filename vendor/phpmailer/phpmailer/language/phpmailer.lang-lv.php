@@ -2,7 +2,7 @@
 
 /**
  * Latvian PHPMailer language file: refer to English translation for definitive list
- * @package PHPMailer
+ * PHPMailer
  * @author Eduards M. <e@npd.lv>
  */
 

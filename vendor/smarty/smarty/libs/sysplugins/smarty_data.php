@@ -3,7 +3,7 @@
  * Smarty Plugin Data
  * This file contains the data object
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage Template
  * @author     Uwe Tews
  */
@@ -12,7 +12,7 @@
  * class for the Smarty data object
  * The Smarty data object will hold Smarty variables in the current scope
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage Template
  */
 class Smarty_Data extends Smarty_Internal_Data

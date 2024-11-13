@@ -3,7 +3,7 @@
  * Smarty Internal TestInstall
  * Test Smarty installation
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage Utilities
  * @author     Uwe Tews
  */
@@ -11,7 +11,7 @@
 /**
  * TestInstall class
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage Utilities
  */
 class Smarty_Internal_TestInstall

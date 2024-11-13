@@ -3,8 +3,8 @@
 /**
  * ajax -> forums -> reply
  * 
- * @package Sngine
- * @author Zamblek
+ * Sngine
+ * 
  */
 
 // fetch bootstrap

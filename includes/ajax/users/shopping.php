@@ -3,8 +3,8 @@
 /**
  * ajax -> user -> shopping
  * 
- * @package Sngine
- * @author Zamblek
+ * Sngine
+ * 
  */
 
 // fetch bootstrap

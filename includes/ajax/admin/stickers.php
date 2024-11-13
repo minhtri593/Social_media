@@ -3,8 +3,8 @@
 /**
  * ajax -> admin -> stickers
  * 
- * @package Sngine
- * @author Zamblek
+ * Sngine
+ * 
  */
 
 // fetch bootstrap

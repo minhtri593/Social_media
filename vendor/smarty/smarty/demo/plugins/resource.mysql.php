@@ -16,7 +16,7 @@
  * world"}{$x}');</pre>
  *
  *
- * @package Resource-examples
+ * Resource-examples
  * @author  Rodney Rehm
  */
 class Smarty_Resource_Mysql extends Smarty_Resource_Custom

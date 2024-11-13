@@ -5,7 +5,7 @@
  * Resource Implementation modifying the extends-Resource to walk
  * through the template_dirs and inherit all templates of the same name
  *
- * @package Resource-examples
+ * Resource-examples
  * @author  Rodney Rehm
  */
 class Smarty_Resource_Extendsall extends Smarty_Internal_Resource_Extends

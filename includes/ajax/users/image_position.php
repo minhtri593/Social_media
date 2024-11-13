@@ -3,8 +3,8 @@
 /**
  * ajax -> users -> image position
  * 
- * @package Sngine
- * @author Zamblek
+ * Sngine
+ * 
  */
 
 // fetch bootstrap

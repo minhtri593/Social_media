@@ -4,7 +4,7 @@
  *
  * This is the lexer to break the config file source into tokens
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage Config
  * @author     Uwe Tews
  */
@@ -15,7 +15,7 @@
  * This is the config file lexer.
  * It is generated from the smarty_internal_configfilelexer.plex file
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage Compiler
  * @author     Uwe Tews
  */

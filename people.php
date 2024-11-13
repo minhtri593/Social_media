@@ -3,8 +3,8 @@
 /**
  * friend_requests
  * 
- * @package Sngine
- * @author Zamblek
+ * Sngine
+ * 
  */
 
 // fetch bootloader

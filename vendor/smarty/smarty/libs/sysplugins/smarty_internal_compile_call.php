@@ -3,7 +3,7 @@
  * Smarty Internal Plugin Compile Function_Call
  * Compiles the calls of user defined tags defined by {function}
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage Compiler
  * @author     Uwe Tews
  */
@@ -11,7 +11,7 @@
 /**
  * Smarty Internal Plugin Compile Function_Call Class
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage Compiler
  */
 class Smarty_Internal_Compile_Call extends Smarty_Internal_CompileBase

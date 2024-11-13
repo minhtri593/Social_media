@@ -10,7 +10,7 @@ use Twilio\Rest\Client;
 /**
  * Class Domain
  * Abstracts a Twilio sub domain
- * @package Twilio
+ * Twilio
  */
 abstract class Domain {
     /**

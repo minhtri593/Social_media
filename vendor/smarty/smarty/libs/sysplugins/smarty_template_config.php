@@ -2,7 +2,7 @@
 /**
  * Smarty Config Source Plugin
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage TemplateResources
  * @author     Uwe Tews
  */
@@ -11,7 +11,7 @@
  * Smarty Config Resource Data Object
  * Meta Data Container for Template Files
  *
- * @package    Smarty
+ *    Smarty
  * @subpackage TemplateResources
  * @author     Uwe Tews
  */
