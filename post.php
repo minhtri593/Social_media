@@ -19,7 +19,7 @@ if ($user->_logged_in || !$system['system_public']) {
 if (!isset($_GET['post_id']) || !is_numeric($_GET['post_id'])) {
   _error(404);
 }
-
+//post
 try {
 
   // get post
