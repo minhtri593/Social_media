@@ -14,7 +14,7 @@ require('bootloader.php');
 if (!$system['games_enabled']) {
   _error(404);
 }
-//update
+//add game
 try {
 
   // get view content
