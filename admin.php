@@ -97,7 +97,7 @@ try {
       $smarty->assign('insights', $insights);
       $smarty->assign('chart', $chart);
       break;
-
+      //admin dashboard
     case 'settings':
       // check admin|moderator permission
       if ($user->_is_moderator) {
