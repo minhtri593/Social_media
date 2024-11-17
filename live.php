@@ -46,6 +46,7 @@ if (isset($_GET['page_id']) && is_numeric($_GET['page_id'])) {
   }
   /* get node_monetization_enabled */
   $node_monetization_enabled = $page['page_monetization_enabled'];
+  //check
   /* get node_author */
   $node_author = $page['page_admin'];
   /* get node_monetization_plans */
@@ -89,6 +90,8 @@ if ($system['monetization_enabled']) {
     $can_be_for_subscriptions = true;
   }
 }
+
+
 /* assign variables */
 $smarty->assign('can_be_for_subscriptions', $can_be_for_subscriptions);
 
