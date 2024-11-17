@@ -30,7 +30,7 @@ try {
   $ads = $user->ads('notifications');
   /* assign variables */
   $smarty->assign('ads', $ads);
-
+  //get data user
   // get widgets
   $widgets = $user->widgets('notifications');
   /* assign variables */
