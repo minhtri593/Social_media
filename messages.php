@@ -52,6 +52,7 @@ try {
       }
     }
   }
+  //check
   /* assign variables */
   $smarty->assign('view', $view);
 } catch (Exception $e) {
