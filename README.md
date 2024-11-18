@@ -56,49 +56,66 @@ HubLinks is a social media platform that connects people, allowing users to shar
 
 ## User Screenshots
 
-<table>
-  <td>
-    <p align="center">
-      <img src="https://github.com/user-attachments/assets/55a78688-ea7b-4d7b-b589-ef56275cc270" alt="Home" width="500"/>
-    </p>
-  </td>
-    <td>
-    <p align="center">
-      <img src="https://github.com/user-attachments/assets/ba1cb2a7-133b-4440-9e31-8c3407942263" alt="Cart" width="500"/>
-    </p>
-  </td>
-    <td>
-    <p align="center">
-      <img src="https://github.com/user-attachments/assets/385e5efa-9a68-4f8d-80f3-f69b10fb0821" alt="Detail" width="500"/>
-    </p>
-  </td>
-  <td>
-    <p align="center">
-      <img src="https://github.com/user-attachments/assets/ee308526-27dc-46e3-9b32-3d565fed5e30" alt="Comment" width="500"/>
-    </p>
-  </td>
-</tr>
-    <td>
-    <p align="center">
-      <img src="https://github.com/user-attachments/assets/5ecc06a7-8467-4939-9337-84ee1ed50ab4" alt="Payout" width="500"/>
-    </p>
-  </td>
-  <td>
-    <p align="center">
-      <img src="https://github.com/user-attachments/assets/d2b4b869-aef9-4be8-8dba-4f7366027858" alt="Payout Momo Method" width="500"/>
-    </p>
-  </td>
-    <td>
-    <p align="center">
-      <img src="https://github.com/user-attachments/assets/eb01adfd-497a-4dab-a797-d4ca6b832eeb" alt="Payout ZaloPay Method" width="500"/>
-    </p>
-  </td>
-      <td>
-    <p align="center">
-      <img src="https://github.com/user-attachments/assets/a4094275-d097-4615-9627-7e98679c4d44" alt="Order History" width="500"/>
-    </p>
-  </td>
-</table>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Image Carousel</title>
+  <!-- Link Bootstrap CSS -->
+  <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+    .carousel-inner img {
+      width: 100%;
+      height: auto;
+    }
+  </style>
+</head>
+<body>
+  <div id="imageCarousel" class="carousel slide" data-ride="carousel">
+    <div class="carousel-inner">
+      <div class="carousel-item active">
+        <img src="https://github.com/user-attachments/assets/55a78688-ea7b-4d7b-b589-ef56275cc270" alt="Home" class="d-block w-100">
+      </div>
+      <div class="carousel-item">
+        <img src="https://github.com/user-attachments/assets/ba1cb2a7-133b-4440-9e31-8c3407942263" alt="Cart" class="d-block w-100">
+      </div>
+      <div class="carousel-item">
+        <img src="https://github.com/user-attachments/assets/385e5efa-9a68-4f8d-80f3-f69b10fb0821" alt="Detail" class="d-block w-100">
+      </div>
+      <div class="carousel-item">
+        <img src="https://github.com/user-attachments/assets/ee308526-27dc-46e3-9b32-3d565fed5e30" alt="Comment" class="d-block w-100">
+      </div>
+      <div class="carousel-item">
+        <img src="https://github.com/user-attachments/assets/5ecc06a7-8467-4939-9337-84ee1ed50ab4" alt="Payout" class="d-block w-100">
+      </div>
+      <div class="carousel-item">
+        <img src="https://github.com/user-attachments/assets/d2b4b869-aef9-4be8-8dba-4f7366027858" alt="Payout Momo Method" class="d-block w-100">
+      </div>
+      <div class="carousel-item">
+        <img src="https://github.com/user-attachments/assets/eb01adfd-497a-4dab-a797-d4ca6b832eeb" alt="Payout ZaloPay Method" class="d-block w-100">
+      </div>
+      <div class="carousel-item">
+        <img src="https://github.com/user-attachments/assets/a4094275-d097-4615-9627-7e98679c4d44" alt="Order History" class="d-block w-100">
+      </div>
+    </div>
+    <a class="carousel-control-prev" href="#imageCarousel" role="button" data-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="carousel-control-next" href="#imageCarousel" role="button" data-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="sr-only">Next</span>
+    </a>
+  </div>
+
+  <!-- Link Bootstrap JS and jQuery -->
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.2/dist/umd/popper.min.js"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>
+
 
 
 
