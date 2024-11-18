@@ -54,69 +54,51 @@ HubLinks is a social media platform that connects people, allowing users to shar
 - **Bootstrap**: A responsive framework that simplifies the creation of mobile-friendly, adaptive designs with pre-built components.
     
 
-## User Screenshots
+## Hublinks Screenshots
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Image Carousel</title>
-  <!-- Link Bootstrap CSS -->
-  <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
-  <style>
-    .carousel-inner img {
-      width: 100%;
-      height: auto;
-    }
-  </style>
-</head>
-<body>
-  <div id="imageCarousel" class="carousel slide" data-ride="carousel">
-    <div class="carousel-inner">
-      <div class="carousel-item active">
-        <img src="https://github.com/user-attachments/assets/55a78688-ea7b-4d7b-b589-ef56275cc270" alt="Home" class="d-block w-100">
-      </div>
-      <div class="carousel-item">
-        <img src="https://github.com/user-attachments/assets/ba1cb2a7-133b-4440-9e31-8c3407942263" alt="Cart" class="d-block w-100">
-      </div>
-      <div class="carousel-item">
-        <img src="https://github.com/user-attachments/assets/385e5efa-9a68-4f8d-80f3-f69b10fb0821" alt="Detail" class="d-block w-100">
-      </div>
-      <div class="carousel-item">
-        <img src="https://github.com/user-attachments/assets/ee308526-27dc-46e3-9b32-3d565fed5e30" alt="Comment" class="d-block w-100">
-      </div>
-      <div class="carousel-item">
-        <img src="https://github.com/user-attachments/assets/5ecc06a7-8467-4939-9337-84ee1ed50ab4" alt="Payout" class="d-block w-100">
-      </div>
-      <div class="carousel-item">
-        <img src="https://github.com/user-attachments/assets/d2b4b869-aef9-4be8-8dba-4f7366027858" alt="Payout Momo Method" class="d-block w-100">
-      </div>
-      <div class="carousel-item">
-        <img src="https://github.com/user-attachments/assets/eb01adfd-497a-4dab-a797-d4ca6b832eeb" alt="Payout ZaloPay Method" class="d-block w-100">
-      </div>
-      <div class="carousel-item">
-        <img src="https://github.com/user-attachments/assets/a4094275-d097-4615-9627-7e98679c4d44" alt="Order History" class="d-block w-100">
-      </div>
-    </div>
-    <a class="carousel-control-prev" href="#imageCarousel" role="button" data-slide="prev">
-      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-      <span class="sr-only">Previous</span>
-    </a>
-    <a class="carousel-control-next" href="#imageCarousel" role="button" data-slide="next">
-      <span class="carousel-control-next-icon" aria-hidden="true"></span>
-      <span class="sr-only">Next</span>
-    </a>
-  </div>
+#### Home Page
+![Issue 1 Image](https://github.com/user-attachments/assets/ba1cb2a7-133b-4440-9e31-8c3407942263)
 
-  <!-- Link Bootstrap JS and jQuery -->
-  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.2/dist/umd/popper.min.js"></script>
-  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
-</body>
-</html>
+#### Personal Profile
+![Issue 2 Image](https://github.com/user-attachments/assets/55a78688-ea7b-4d7b-b589-ef56275cc270)
 
+#### Search Moive
+![Issue 3 Image](https://github.com/user-attachments/assets/385e5efa-9a68-4f8d-80f3-f69b10fb0821)
 
+#### Watch Movie
+![Issue 4 Image](https://github.com/user-attachments/assets/9037c377-407d-4220-831e-1a8b54bbfe1f)
+
+#### Notifications
+![Issue 5 Image](https://github.com/user-attachments/assets/5ecc06a7-8467-4939-9337-84ee1ed50ab4)
+
+#### Chatbox
+![Issue 6 Image](https://github.com/user-attachments/assets/d2b4b869-aef9-4be8-8dba-4f7366027858)
+
+#### Search Game
+![Issue 6 Image](https://github.com/user-attachments/assets/192a8a43-fcbd-428f-bcb0-b8b8cb411058)
+
+#### Play Game
+![Issue 8 Image](https://github.com/user-attachments/assets/8490d21d-b054-4a35-91bc-2176ba0c97b8)
+
+#### Privacy
+![Issue 9 Image](https://github.com/user-attachments/assets/e74fc86b-bed8-4f34-8624-32e74afdb95b)
+
+#### Edit Profile
+![Issue 10 Image](https://github.com/user-attachments/assets/8f0de7df-2d77-4836-9aa1-c126c11fe30b)
+
+#### Dark Mode
+![Issue 11 Image](https://github.com/user-attachments/assets/a4094275-d097-4615-9627-7e98679c4d44)
+
+## Admin Page
+
+#### Analytics Admin Dashboard
+![Issue 11 Image](https://github.com/user-attachments/assets/eb01adfd-497a-4dab-a797-d4ca6b832eeb)
+
+#### User Listing
+![Issue 11 Image](https://github.com/user-attachments/assets/d252661b-24e7-4c9a-a8ea-ccf44ff2699f)
+
+#### Create Virtual Users Tools
+![Issue 11 Image](https://github.com/user-attachments/assets/63c1d044-75d0-4c01-a5a2-6635fcf48d3b)
 
 
 ## Getting Started
