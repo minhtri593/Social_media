@@ -104,4 +104,4 @@ HubLinks is a social media platform that connects people, allowing users to shar
 
 ## Getting Started
 - **LinkYoutobeReview**: 
-- **LinkUX-UI**: 
+- **LinkUX-UI**: https://github.com/trilaanh2k3/Social_media/issues/18
