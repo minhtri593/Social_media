@@ -14,7 +14,7 @@ require('bootloader.php');
 if (!$system['events_enabled']) {
   _error(404);
 }
-
+//event feature
 try {
 
   // get view content

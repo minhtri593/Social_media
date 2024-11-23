@@ -19,7 +19,7 @@ if ($user->_logged_in || !$system['system_public']) {
 if (is_empty($_GET['event_id'])) {
   _error(404);
 }
-
+//event feature
 try {
 
   // [1] get main event info
