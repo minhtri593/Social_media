@@ -52,6 +52,7 @@ try {
   if ($system['videos_enabled']) {
     $spage['videos_count'] = $user->get_videos_count($spage['page_id'], 'page');
   }
+  // check review page
   /* get page reviews count */
   if ($system['reviews_enabled']) {
     $spage['reviews_count'] = $user->get_reviews_count($spage['page_id']);

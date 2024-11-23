@@ -72,7 +72,7 @@ try {
       $smarty->assign('get', "category_pages");
 
       break;
-
+ // check review page
     case 'liked':
       // user access
       user_access();
