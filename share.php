@@ -26,6 +26,7 @@ try {
   if ($system['colored_posts_enabled']) {
     $smarty->assign('colored_patterns', $user->get_posts_colored_patterns());
   }
+  // share video
   if ($user->_data['can_upload_videos']) {
     $smarty->assign('videos_categories', $user->get_categories("posts_videos_categories"));
   }
