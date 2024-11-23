@@ -14,7 +14,7 @@ require('bootloader.php');
 if (!$system['groups_enabled']) {
   _error(404);
 }
-
+// group 
 try {
 
   // get view content

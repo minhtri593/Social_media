@@ -56,6 +56,7 @@ try {
   if ($system['videos_enabled']) {
     $group['videos_count'] = $user->get_videos_count($group['group_id'], 'group');
   }
+  // group 
   /* check if group's admin can monetize content */
   $group['can_monetize_content'] = $system['monetization_enabled'] && $user->check_user_permission($group['group_admin'], 'monetization_permission');
   /* check if group has monetization enabled && subscriptions plans */
