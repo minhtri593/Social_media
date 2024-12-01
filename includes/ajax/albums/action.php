@@ -3,7 +3,7 @@
 /**
  * ajax -> albums -> action
  * 
- * Sngine
+ * 
  * 
  */
 

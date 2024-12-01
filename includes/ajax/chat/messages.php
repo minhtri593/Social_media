@@ -3,7 +3,7 @@
 /**
  * ajax -> chat -> get messages
  * 
- * Sngine
+ * 
  * 
  */
 

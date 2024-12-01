@@ -3,7 +3,7 @@
 /**
  * ajax -> users -> verify
  * 
- * Sngine
+ * 
  * 
  */
 

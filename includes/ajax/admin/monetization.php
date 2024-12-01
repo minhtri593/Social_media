@@ -3,7 +3,7 @@
 /**
  * ajax -> admin -> monetization
  * 
- * Sngine
+ * 
  * 
  */
 

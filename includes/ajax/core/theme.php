@@ -3,7 +3,7 @@
 /**
  * ajax -> core -> theme
  * 
- * Sngine
+ * 
  * 
  */
 

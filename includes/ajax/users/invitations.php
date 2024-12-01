@@ -3,7 +3,7 @@
 /**
  * ajax -> user -> invitations
  * 
- * Sngine
+ * 
  * 
  */
 

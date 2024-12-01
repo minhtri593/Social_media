@@ -3,7 +3,7 @@
 /**
  * ajax -> users -> mutual friends
  * 
- * Sngine
+ * 
  * 
  */
 

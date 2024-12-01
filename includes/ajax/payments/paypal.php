@@ -3,7 +3,7 @@
 /**
  * ajax -> payments -> paypal
  * 
- * Sngine
+ * 
  * 
  */
 

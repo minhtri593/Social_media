@@ -3,7 +3,7 @@
 /**
  * ajax -> admin -> themes
  * 
- * Sngine
+ * 
  * 
  */
 

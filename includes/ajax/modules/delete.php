@@ -3,7 +3,7 @@
 /**
  * ajax -> modules -> delete
  * 
- * Sngine
+ * 
  * 
  */
 

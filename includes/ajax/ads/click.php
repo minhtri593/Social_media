@@ -3,7 +3,7 @@
 /**
  * ajax -> ads -> click
  * 
- * Sngine
+ * 
  * 
  */
 

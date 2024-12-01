@@ -3,7 +3,7 @@
 /**
  * ajax -> payments -> 2checkout
  * 
- * Sngine
+ * 
  * 
  */
 

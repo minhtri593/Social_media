@@ -3,7 +3,7 @@
 /**
  * ajax -> admin -> forums
  * 
- * Sngine
+ * 
  * 
  */
 

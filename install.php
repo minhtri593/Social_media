@@ -43,7 +43,6 @@ if (isset($_POST['submit'])) {
   }
 
 
-  // check purchase code
   try {
     $licence_key = get_licence_key($_POST['purchase_code']);
     if (is_empty($_POST['purchase_code']) || $licence_key === false) {
@@ -98,7 +97,7 @@ if (isset($_POST['submit'])) {
     /*!40101 SET NAMES utf8mb4 */;
 
     --
-    -- Database: `sngine`
+    -- Database: ``
     --
 
     -- --------------------------------------------------------

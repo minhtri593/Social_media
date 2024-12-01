@@ -3,7 +3,7 @@
 /**
  * ajax -> forums -> delete
  * 
- * Sngine
+ * 
  * 
  */
 

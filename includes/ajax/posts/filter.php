@@ -3,7 +3,7 @@
 /**
  * ajax -> posts -> filter (posts|comments)
  * 
- * Sngine
+ * 
  * 
  */
 

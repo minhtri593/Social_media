@@ -3,7 +3,7 @@
 /**
  * ajax -> posts -> lightbox
  * 
- * Sngine
+ * 
  * 
  */
 

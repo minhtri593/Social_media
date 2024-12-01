@@ -3,7 +3,7 @@
 /**
  * ajax -> chat -> live
  * 
- * Sngine
+ * 
  * 
  */
 

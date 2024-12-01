@@ -3,7 +3,7 @@
 /**
  * ajax -> core -> activation phone resend
  * 
- * Sngine
+ * 
  * 
  */
 

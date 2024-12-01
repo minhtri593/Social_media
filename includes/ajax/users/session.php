@@ -3,7 +3,7 @@
 /**
  * ajax -> users -> session
  * 
- * Sngine
+ * 
  * 
  */
 

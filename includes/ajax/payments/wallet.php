@@ -3,7 +3,7 @@
 /**
  * ajax -> payments -> wallet
  * 
- * Sngine
+ * 
  * 
  */
 

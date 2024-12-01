@@ -3,7 +3,7 @@
 /**
  * ajax -> posts -> comment
  * 
- * Sngine
+ * 
  * 
  */
 

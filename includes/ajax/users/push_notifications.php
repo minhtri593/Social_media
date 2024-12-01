@@ -3,7 +3,7 @@
 /**
  * ajax -> users -> push notifications
  * 
- * Sngine
+ * 
  * 
  */
 

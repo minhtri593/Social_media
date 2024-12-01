@@ -3,7 +3,7 @@
 /**
  * ajax -> data -> reset
  * 
- * Sngine
+ * 
  * 
  */
 

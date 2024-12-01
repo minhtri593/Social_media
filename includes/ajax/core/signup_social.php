@@ -3,7 +3,7 @@
 /**
  * ajax -> core -> social signup
  * 
- * Sngine
+ * 
  * 
  */
 

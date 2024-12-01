@@ -3,7 +3,7 @@
 /**
  * ajax -> posts -> who shares
  * 
- * Sngine
+ * 
  * 
  */
 

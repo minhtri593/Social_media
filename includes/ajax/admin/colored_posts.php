@@ -3,7 +3,7 @@
 /**
  * ajax -> admin -> colored posts
  * 
- * Sngine
+ * 
  * 
  */
 
