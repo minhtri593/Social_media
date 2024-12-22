@@ -58,7 +58,7 @@ try {
   }
   /* assign variables */
   $smarty->assign('view', $_GET['view']);
-
+  //friend requests sent
   // get total friend requests sent
   $user->_data['friend_requests_sent_total'] = $user->get_friend_requests_sent_total();
 
