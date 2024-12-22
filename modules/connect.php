@@ -11,7 +11,7 @@
 require('../bootstrap.php');
 
 try {
-
+  // add connection with another social
   switch ($_REQUEST['do']) {
     case 'connect':
       // check if social login enabled
