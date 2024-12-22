@@ -22,7 +22,7 @@ if (!isset($_GET['photo_id']) || !is_numeric($_GET['photo_id'])) {
 
 try {
 
-  // get photo
+  //upload photo
   define('PRIVACY_ERRORS', true);
   $photo = $user->get_photo($_GET['photo_id'], true);
   if (!$photo) {
