@@ -107,7 +107,7 @@ try {
     }
   }
 
-
+  // update profile
   // [2] get view content
   switch ($_GET['view']) {
     case '':
