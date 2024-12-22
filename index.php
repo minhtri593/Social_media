@@ -65,7 +65,7 @@ try {
     }
   } else {
 
-    // user access
+    
     user_access();
 
     // get announcements
