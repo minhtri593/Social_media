@@ -25,7 +25,7 @@ if ($user->_data['user_demo']) {
 
 // handle notifications
 try {
-
+  // Update notifications admin
   /* valid inputs */
   if (is_empty($_POST['url'])) {
     throw new Exception(__("You must enter the notification url"));
