@@ -58,7 +58,7 @@ try {
 
       // access app
       $user_id = $user->access_app($_GET['access_token']);
-
+      // add api get user
       // get user
       $get_user = $db->query(sprintf("SELECT 
 				user_id, 
