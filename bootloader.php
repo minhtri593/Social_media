@@ -13,7 +13,6 @@ require('bootstrap.php');
 try {
   // user logged in
   if ($user->_logged_in) {
-    // get user data
     /* get friend requests */
     $user->_data['friend_requests'] = $user->get_friend_requests();
     /* get search log */
