@@ -10,11 +10,11 @@
 // fetch bootloader
 require('bootloader.php');
 
-// groups enabled
+
 if (!$system['groups_enabled']) {
   _error(404);
 }
-// group 
+
 try {
 
   // get view content
