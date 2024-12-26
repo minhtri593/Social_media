@@ -15,7 +15,6 @@ if (!$system['developers_share_enabled']) {
   _error(404);
 }
 
-// user access
 user_access();
 
 try {
