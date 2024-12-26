@@ -58,7 +58,6 @@ init_system_session();
 $date = init_system_datatime();
 
 
-// configure localization
 $gettextTranslator = new Gettext\Translator();
 $gettextTranslator->register();
 
