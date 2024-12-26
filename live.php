@@ -27,7 +27,7 @@ if ($user->_data['user_demo']) {
 
 // page header
 page_header(__("Live") . ' | ' . __($system['system_title']));
-
+//fix live feature
 // get agora (uid|token|channel_name)
 $agora = $user->agora_token_builder(true);
 /* assign variables */
