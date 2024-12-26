@@ -20,7 +20,6 @@ $_GET['tab'] = ($_GET['tab'] == "") ? "posts" : $_GET['tab'];
 if (!in_array($_GET['tab'], ["posts", "articles", "users", "pages", "groups", "events"])) {
   _error(404);
 }
-// create research
 try {
 
   // search
