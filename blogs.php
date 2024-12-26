@@ -19,7 +19,6 @@ if (!$system['blogs_enabled']) {
 if ($user->_logged_in || !$system['system_public']) {
   user_access();
 }
-//add blog
 try {
 
   // get view content
