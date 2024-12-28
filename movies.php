@@ -19,10 +19,7 @@ if (!$system['movies_enabled']) {
 if ($user->_logged_in || !$system['system_public']) {
   user_access();
 }
-//add movie
 try {
-
-  // get view content
   $_GET['view'] = (isset($_GET['view'])) ? $_GET['view'] : '';
   switch ($_GET['view']) {
     case '':
