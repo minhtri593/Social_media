@@ -39,7 +39,6 @@ try {
   /* get page cover */
   $spage['page_cover'] = ($spage['page_cover']) ? $system['system_uploads'] . '/' . $spage['page_cover'] : $spage['page_cover'];
   $spage['page_cover_full'] = ($spage['page_cover_full']) ? $system['system_uploads'] . '/' . $spage['page_cover_full'] : $spage['page_cover_full'];
-  /* check page category */
   $spage['page_category_name'] = (!$spage['page_category_name']) ? __('N/A') : $spage['page_category_name']; /* in case deleted by admin */
   /* get the connection */
   $spage['i_admin'] = $user->check_page_adminship($user->_data['user_id'], $spage['page_id']);
@@ -53,7 +52,6 @@ try {
     $spage['videos_count'] = $user->get_videos_count($spage['page_id'], 'page');
   }
   // check review page
-  /* get page reviews count */
   if ($system['reviews_enabled']) {
     $spage['reviews_count'] = $user->get_reviews_count($spage['page_id']);
   }

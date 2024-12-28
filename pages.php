@@ -24,11 +24,7 @@ try {
       if ($user->_logged_in || !$system['system_public']) {
         user_access();
       }
-
-      // page header
       page_header(__("Pages") . ' | ' . __($system['system_title']), __($system['system_description_pages']));
-
-      // get pages categories
       $smarty->assign('categories', $user->get_categories("pages_categories"));
 
       // get new pages
