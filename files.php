@@ -22,7 +22,6 @@ try {
     throw new Exception(__("File not found"));
   }
   //check if file < 40mb
-  // read the file contents and send the response
   $handle = fopen($file, "rb");
   $contents = fread($handle, filesize($file));
   fclose($handle);
