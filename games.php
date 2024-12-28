@@ -67,10 +67,7 @@ try {
       break;
 
     case 'played':
-      // user access
       user_access();
-
-      // page header
       page_header(__("Your Games"));
 
       // get games
