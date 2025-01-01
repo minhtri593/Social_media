@@ -181,8 +181,6 @@ try {
         if (!$user->_data['can_sell_products']) {
           _error(404);
         }
-
-        // page header
         page_header(__("My Products"));
 
         // get posts (products)
